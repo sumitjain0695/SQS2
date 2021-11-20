@@ -1,2 +1,1 @@
-# SQS2
-Kanban board Trello Example
+# Learning: Kanban board Trello implementation
